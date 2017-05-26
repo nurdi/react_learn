@@ -9,7 +9,7 @@ class ButtonAbout extends React.Component{
 		}
 		return (
 		<div>
-			<button onClick={about}>
+			<button>
 				About
 			</button>
 		</div>
